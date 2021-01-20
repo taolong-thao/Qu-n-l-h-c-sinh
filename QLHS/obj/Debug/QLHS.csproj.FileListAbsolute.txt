@@ -1,0 +1,16 @@
+C:\Users\ASUS\Desktop\QLHS\QLHS\bin\Debug\QLHS.exe.config
+C:\Users\ASUS\Desktop\QLHS\QLHS\bin\Debug\QLHS.exe
+C:\Users\ASUS\Desktop\QLHS\QLHS\bin\Debug\QLHS.pdb
+C:\Users\ASUS\Desktop\QLHS\QLHS\obj\Debug\QLHS.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\QLHS\QLHS\obj\Debug\QLHS.GUI.HoSoHocSinh.resources
+C:\Users\ASUS\Desktop\QLHS\QLHS\obj\Debug\QLHS.GUI.NhapDiem.resources
+C:\Users\ASUS\Desktop\QLHS\QLHS\obj\Debug\QLHS.QuanLy.resources
+C:\Users\ASUS\Desktop\QLHS\QLHS\obj\Debug\QLHS.Properties.Resources.resources
+C:\Users\ASUS\Desktop\QLHS\QLHS\obj\Debug\QLHS.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\QLHS\QLHS\obj\Debug\QLHS.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\QLHS\QLHS\obj\Debug\QLHS.exe
+C:\Users\ASUS\Desktop\QLHS\QLHS\obj\Debug\QLHS.pdb
+C:\Users\ASUS\Desktop\QLHS\QLHS\obj\Debug\QLHS.GUI.TraCuu.resources
+C:\Users\ASUS\Desktop\QLHS\QLHS\obj\Debug\QLHS.GUI.BaoCao.resources
+C:\Users\ASUS\Desktop\QLHS\QLHS\obj\Debug\QLHS.GUI.DSHS.resources
+C:\Users\ASUS\Desktop\QLHS\QLHS\obj\Debug\QLHS.GUI.DSLH.resources
